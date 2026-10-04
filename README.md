@@ -1,4 +1,3 @@
-<img width="1816" height="759" alt="Снимок экрана_20261004_173656" src="https://github.com/user-attachments/assets/bf06e259-ffc9-4d25-8e35-db308f34d5ec" />
 # 🛒 Async E-Commerce Catalog Scraper to Excel
 
 Высокопроизводительный асинхронный парсер каталога товаров с автоматической выгрузкой в форматированный Excel-отчет (.xlsx) и поддержкой Docker.
@@ -28,7 +27,8 @@
 
 ## 📊 Пример сформированного отчета
 
-![Excel Preview](assets/preview.png)
+<img width="1816" height="759" alt="Снимок экрана_20261004_173656" src="https://github.com/user-attachments/assets/5cacaa5e-67ed-44a1-8c69-94b3ab1856e3" />
+
 
 > *Примечание: Скриншот автоматически сгенерированной таблицы с фильтрами и числовыми данными.*
 
