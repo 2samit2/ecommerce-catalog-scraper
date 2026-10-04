@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+output/
+logs/
+.env
+*.appimage
+*.AppImage
+appimages/
+lunch_app/
