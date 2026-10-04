@@ -8,3 +8,5 @@ logs/
 *.AppImage
 appimages/
 lunch_app/
+*.xlsx
+output/
